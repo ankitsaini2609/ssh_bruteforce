@@ -1,4 +1,4 @@
-#!bin/bash
+#!/usr/bin/python
 #Created by Ankit Saini
 from sys import argv
 from colorama import Fore,Style
